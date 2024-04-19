@@ -47,7 +47,8 @@ Feel free to explore these projects to see my coding style and problem-solving s
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/hanem-naga/" target="_blank"><img src="https://img.shields.io/badge/-Hanem%20Naga-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-kamal22/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Kamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -68,8 +69,10 @@ Feel free to explore these projects to see my coding style and problem-solving s
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanemNaga&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedKamal51197&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
 <br>
-<a href="https://komarev.com/ghpvc/?username=hanemNaga&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=hanemNaga&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=AhmedKamal51197&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=AhmedKamal51197&style=for-the-badge">
 </a>
+
